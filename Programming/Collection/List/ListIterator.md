@@ -22,7 +22,7 @@ public class ListIteratorExample {
   
         ListIterator<Character> iterator = list.listIterator();  
         ListIterator<Character> reverseIterator = list.listIterator(list.size());  
-  
+		
         boolean isPalindrome = true;  
   
         while(iterator.hasNext() && reverseIterator.hasPrevious()){  
