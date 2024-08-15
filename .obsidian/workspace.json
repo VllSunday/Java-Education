@@ -164,6 +164,10 @@
   },
   "active": "9356716978c27f7f",
   "lastOpenFiles": [
+    "test/something.txt",
+    "test/Новый текстовый документ.txt",
+    "test",
+    "Новая папка",
     "Daily/2024-08-15.md",
     "DataBase/PostgreSQL/View/View - конспект.md",
     "DataBase/PostgreSQL/View/Представления (View).md",
@@ -190,7 +194,6 @@
     "Daily/2024-07-30.md",
     "Daily/2024-07-17.md",
     "DataBase/PostgreSQL/DDL/DDL - Data Definition Language.md",
-    "Education/Ежедневник/2024/Август.md",
     "Cache/Pasted image 20240811172703.png"
   ]
 }
