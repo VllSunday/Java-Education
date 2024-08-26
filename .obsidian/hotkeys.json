@@ -7,5 +7,21 @@
       ],
       "key": "H"
     }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
+    }
   ]
 }

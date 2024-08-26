@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"2eb7add8db44c1bf","type":"text","text":"Асимптотический анализ ","x":-444,"y":-140,"width":284,"height":58},
+		{"id":"7a6bde9aacbf9b4b","type":"text","text":"Верхняя оценка(О - большое)","x":-45,"y":-259,"width":285,"height":59},
+		{"id":"4e189724ff8d0c2f","type":"text","text":"Усредненная оценка (омега)","x":-46,"y":-141,"width":250,"height":60},
+		{"id":"ad8b693a8dff95cb","type":"text","text":"Нижняя оценка ( тега)","x":-51,"y":-29,"width":250,"height":60},
+		{"id":"66f5ed70e97b2fd1","type":"text","text":"Базовые структуры данных  ","x":-441,"y":335,"width":281,"height":65},
+		{"id":"85383eb999eb9970","type":"text","text":"Массив","x":-888,"y":106,"width":250,"height":60},
+		{"id":"b46884c82c71296a","type":"text","text":"Очередь / Стек / Двусторонняя очередь","x":-888,"y":560,"width":250,"height":60},
+		{"id":"82f287c3dc9e6cd2","type":"text","text":"Хэш-таблица","x":-888,"y":440,"width":250,"height":60},
+		{"id":"65940ddd2df01bf8","type":"text","text":"Деревья","x":-888,"y":318,"width":250,"height":60},
+		{"id":"1c9521df6a774466","type":"text","text":"Связный список  / Двусвязный список","x":-980,"y":200,"width":342,"height":60},
+		{"id":"2cdecc1543340f5e","type":"text","text":"Бинарный поиск","x":-441,"y":800,"width":281,"height":50},
+		{"id":"fdca3a22e0263cbd","type":"text","text":"First Bad Version\nValid Perfect Square\nSearch Insert Position\nSqrt(x)\nSearch in Rotated Sorted Array\nPeak Index in a Mountain Array\n--Find First and Last Position of Elements\n-Search a 2D Matrix\n-Search a 2D Matrix II","x":60,"y":661,"width":250,"height":328},
+		{"id":"6dd0d93e17e31bbf","type":"text","text":"Два указателя","x":-441,"y":1120,"width":281,"height":50},
+		{"id":"50a2b06b22881e98","type":"text","text":"Remove Duplicates From Sorted Array\nMerge Sorted Array\nIntersection of Two Arrays II\nTwo SUM II\n3Sum\n4Sum\nSort Colors\nMove zeroes\nPartition Labels","x":-980,"y":1007,"width":277,"height":276},
+		{"id":"ce8435622681f3bd","type":"text","text":"Строки","x":-441,"y":1360,"width":281,"height":50},
+		{"id":"5a16bfeeb9f0109e","type":"text","text":"Roman to Integer\nInteger to Roman\nValid Palindrome\nValid Anagram\nReverse String\nZigzag Conversion\nLength of Last Word","x":60,"y":1285,"width":244,"height":200}
+	],
+	"edges":[
+		{"id":"40ac3e6dfe13fc12","fromNode":"2eb7add8db44c1bf","fromSide":"right","toNode":"7a6bde9aacbf9b4b","toSide":"left"},
+		{"id":"60816869b6f4f4be","fromNode":"2eb7add8db44c1bf","fromSide":"right","toNode":"4e189724ff8d0c2f","toSide":"left"},
+		{"id":"6528a4a84b0f4a8b","fromNode":"2eb7add8db44c1bf","fromSide":"right","toNode":"ad8b693a8dff95cb","toSide":"left"},
+		{"id":"9a548e5415635ced","fromNode":"2eb7add8db44c1bf","fromSide":"bottom","toNode":"66f5ed70e97b2fd1","toSide":"top"},
+		{"id":"7201c65c3e10be18","fromNode":"66f5ed70e97b2fd1","fromSide":"left","toNode":"85383eb999eb9970","toSide":"right"},
+		{"id":"a4ad822301b5d23f","fromNode":"66f5ed70e97b2fd1","fromSide":"left","toNode":"1c9521df6a774466","toSide":"right"},
+		{"id":"4d027c2de37683b6","fromNode":"66f5ed70e97b2fd1","fromSide":"left","toNode":"65940ddd2df01bf8","toSide":"right"},
+		{"id":"f6a76b75c736b400","fromNode":"66f5ed70e97b2fd1","fromSide":"left","toNode":"82f287c3dc9e6cd2","toSide":"right"},
+		{"id":"3e6bc1279f1c16a6","fromNode":"66f5ed70e97b2fd1","fromSide":"left","toNode":"b46884c82c71296a","toSide":"right"},
+		{"id":"6926123477b131c4","fromNode":"66f5ed70e97b2fd1","fromSide":"bottom","toNode":"2cdecc1543340f5e","toSide":"top"},
+		{"id":"f95380f9fe9fba30","fromNode":"2cdecc1543340f5e","fromSide":"right","toNode":"fdca3a22e0263cbd","toSide":"left"},
+		{"id":"0eb77f2640803bd3","fromNode":"2cdecc1543340f5e","fromSide":"bottom","toNode":"6dd0d93e17e31bbf","toSide":"top"},
+		{"id":"4d495d2d849d64c2","fromNode":"6dd0d93e17e31bbf","fromSide":"left","toNode":"50a2b06b22881e98","toSide":"right"},
+		{"id":"65e70f38f46f1007","fromNode":"6dd0d93e17e31bbf","fromSide":"bottom","toNode":"ce8435622681f3bd","toSide":"top"},
+		{"id":"17936620284130ad","fromNode":"ce8435622681f3bd","fromSide":"right","toNode":"5a16bfeeb9f0109e","toSide":"left"}
+	]
+}

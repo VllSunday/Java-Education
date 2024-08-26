@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"2ea749b77babd9e2","x":-198,"y":-1200,"width":597,"height":120,"type":"text","text":"# Расписание на выходную неделю"},
+		{"id":"9ac5408ff668f45a","type":"text","text":"","x":-640,"y":-489,"width":250,"height":302},
+		{"id":"62cf226b3c694463","type":"text","text":"","x":640,"y":115,"width":250,"height":302},
+		{"id":"9c1b3787943e7893","type":"text","text":"","x":960,"y":266,"width":250,"height":302},
+		{"id":"229f266c2069b624","x":-960,"y":-640,"width":250,"height":302,"type":"text","text":""},
+		{"id":"029d925df6c706dc","type":"text","text":"","x":-323,"y":-338,"width":250,"height":302},
+		{"id":"6ecc7ca5a7965381","type":"text","text":"","x":-24,"y":-187,"width":250,"height":302},
+		{"id":"c369be5cfa432b02","type":"text","text":"","x":320,"y":-36,"width":250,"height":302}
+	],
+	"edges":[
+		{"id":"d6d946915b4cdc1a","fromNode":"2ea749b77babd9e2","fromSide":"bottom","toNode":"229f266c2069b624","toSide":"top","label":"Понедельник"},
+		{"id":"55cf8ec5f394a983","fromNode":"2ea749b77babd9e2","fromSide":"bottom","toNode":"9ac5408ff668f45a","toSide":"top","label":"Вторник"},
+		{"id":"256e4d1c3bf2acff","fromNode":"2ea749b77babd9e2","fromSide":"bottom","toNode":"029d925df6c706dc","toSide":"top","label":"Среда"},
+		{"id":"d67c32c08c677d00","fromNode":"2ea749b77babd9e2","fromSide":"bottom","toNode":"6ecc7ca5a7965381","toSide":"top","label":"Четверг"},
+		{"id":"930de3bdc7351d4f","fromNode":"2ea749b77babd9e2","fromSide":"bottom","toNode":"c369be5cfa432b02","toSide":"top","label":"Пятница"},
+		{"id":"b59a317d0ba63d98","fromNode":"2ea749b77babd9e2","fromSide":"bottom","toNode":"62cf226b3c694463","toSide":"top","label":"Суббота"},
+		{"id":"be4882e90511ae58","fromNode":"2ea749b77babd9e2","fromSide":"bottom","toNode":"9c1b3787943e7893","toSide":"top","label":"Воскресенье"}
+	]
+}
