@@ -23,5 +23,14 @@
       ],
       "key": "2"
     }
+  ],
+  "editing-toolbar:codeblock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }

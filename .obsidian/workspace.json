@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "119f628245ee7937",
+        "id": "96b14b1706f0f749",
         "type": "tabs",
         "children": [
           {
-            "id": "11042f619b2e9074",
+            "id": "06cd807abaedb3a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Multithreading/keywords/wait & notify.md",
+                "file": "Daily/2024-09-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4120a28d62ccfb92",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-22 11.59.20.excalidraw.md"
               }
             }
           }
@@ -80,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5086555480957
+    "width": 518.5004348754883
   },
   "right": {
     "id": "48a1588a14b54ce1",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Multithreading/keywords/wait & notify.md",
+                "file": "Daily/2024-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Multithreading/keywords/wait & notify.md",
+                "file": "Daily/2024-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Multithreading/keywords/wait & notify.md"
+                "file": "Daily/2024-09-02.md"
               }
             }
           }
@@ -158,53 +148,55 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "11042f619b2e9074",
+  "active": "06cd807abaedb3a3",
   "lastOpenFiles": [
+    "DataBase/PostgreSQL/Транзакции DMdev/Транзакции.md",
+    "DataBase/PostgreSQL/Индексы/Варианты связываний таблиц.md",
+    "DataBase/PostgreSQL/Транзакции DMdev",
+    "DataBase/PostgreSQL/Индексы/Виды планировщиков запросов.md",
+    "Daily/2024-09-02.md",
+    "Daily/2024-09-1.md",
+    "Daily/2024-08-31.md",
+    "Daily/2024-09-01.md",
+    "Без названия.canvas",
+    "Programming/Generics/Вариантности.md",
+    "Programming/ReflectionApiTregulov/ReflectionApi.md",
+    "Programming/Generics",
+    "DataBase/SQL.md",
+    "DataBase/PostgreSQL RoadMap.md",
+    "DataBase/PostgreSQL/DDL/DDL - Data Definition Language.md",
+    "Programming/Multithreading/Thread/Состояния потока.md",
+    "Programming/ReflectionApiTregulov",
+    "Daily/2024-08-30.md",
+    "Daily/RepositoryOfOldList/2024-08-28.md",
+    "Education/Ежедневник/2024/Java themes.md",
+    "Programming/ReflecitonAPI/Аннотация.md",
+    "Programming/ReflecitonAPI/Конструкторы, поля, методы.md",
+    "Programming/ReflecitonAPI/ReflectionAPI.md",
+    "Programming/ReflectionAPI",
+    "Daily/RepositoryOfOldList/2024-08-22.md",
+    "Daily/RepositoryOfOldList/2024-08-27.md",
+    "DataBase/PostgreSQL/Базовые запросы/Групировка/Windows Function.md",
+    "Daily/2024-08-29.md",
+    "красно-чёрное дерево.md",
+    "Cache/Pasted image 20240827173816.png",
+    "Cache/Pasted image 20240827201950.png",
+    "Programming/StreamApi/Steam API.md",
+    "DataBase/PostgreSQL/Индексы/Виды индексов/Специализированные индексы.md",
+    "DataBase/PostgreSQL/Индексы/Виды индексов",
+    "DataBase/PostgreSQL/Индексы",
+    "DataBase/PostgreSQL/Функции в SQL",
     "Cache/Pasted image 20240825123802.png",
-    "Programming/Multithreading/Возможные ситуации/LiveLock.md",
-    "Programming/Multithreading/Многопоточные коллекции/Concurrent collections/ArrayBlockingQueue.md",
     "Cache/Pasted image 20240826102756.png",
-    "Excalidraw/Drawing 2024-08-22 11.59.20.excalidraw.md",
-    "Programming/Multithreading/Многопоточные коллекции/Concurrent collections/CopyOnWriteArrayList.md",
-    "Programming/Multithreading/Info/Прерывание потоков.md",
-    "Programming/Multithreading/Возможные ситуации/DeadLock.md",
-    "Programming/Multithreading/Возможные ситуации/Lock starvation.md",
-    "Programming/Multithreading/Многопоточные коллекции/Concurrent collections/ConcurrentHashMap.md",
-    "Programming/Multithreading/Многопоточные коллекции/Concurrent collections/Concurrent collections.md",
     "Cache/Pasted image 20240825203356.png",
-    "Programming/Multithreading/Многопоточные коллекции/Проблемы и решения синхронизации при составных операциях в Java.md",
-    "Programming/Multithreading/Многопоточные коллекции/Итерация в многопоточной среде. Проблемы и синхронизация.md",
-    "Programming/Multithreading/Многопоточные коллекции/Synchronized collections.md",
-    "Programming/Multithreading/Info/Многопоточность.md",
     "Programming/Multithreading/Многопоточные коллекции/Concurrent collections",
     "Programming/Multithreading/Многопоточные коллекции",
-    "Programming/StreamApi/Коллекторы/GroupingBy и ToMap.md",
-    "Programming/StreamApi/Извлечение и соединение потоков данных/Извлечение и соединение потоков данных.md",
-    "Programming/StreamApi/Извлечение и соединение потоков данных/Concat.md",
-    "Programming/StreamApi/Извлечение и соединение потоков данных/Skip.md",
-    "Programming/StreamApi/Извлечение и соединение потоков данных/distinct.md",
-    "Programming/StreamApi/Извлечение и соединение потоков данных/Limit.md",
-    "Programming/StreamApi/Steam API.md",
-    "Programming/StreamApi/MAP.md",
-    "Programming/Multithreading/Info/ActomicInteger.md",
     "Programming/StreamApi/Коллекторы",
-    "Programming/Multithreading/Synchronizers/Exchanger.md",
-    "Programming/Multithreading/Synchronizers/CountDownLatch.md",
-    "Excalidraw/Drawing 2024-08-21 13.54.13.excalidraw.md",
     "Cache/Многопоточность/Exchanger.gif",
-    "Cache/Многопоточность/Не подтверждено 76198.~",
     "Cache/Многопоточность/CountDownLatch.gif",
-    "Cache/Многопоточность/Не подтверждено 627547.~",
     "Cache/Многопоточность/Semaphore.gif",
-    "Cache/Многопоточность",
-    "Cache/Новая папка",
-    "Programming/Multithreading/Synchronizers",
     "Cache/Pasted image 20240824135425.png",
-    "Programming/Multithreading/Thread/ThreadPool",
     "Cache/Pasted image 20240824133909.png",
-    "Cache/Pasted image 20240824133518.png",
-    "Programming/Multithreading/Info",
-    "Cache/Pasted image 20240823155615.png",
     "CanvasDiogram/AlgoRoadMap.canvas",
     "CanvasDiogram/Расписание на выходную неделю.canvas"
   ]
