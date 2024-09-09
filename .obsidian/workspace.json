@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-09-02.md",
+                "file": "HTTP Servlets/TCP & UPD/UDP протокол + пример.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f791d9b9567eea06",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-21 13.54.13.excalidraw.md"
               }
             }
           }
@@ -54,7 +64,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -70,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5004348754883
+    "width": 334.5086555480957
   },
   "right": {
     "id": "48a1588a14b54ce1",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-09-02.md",
+                "file": "HTTP Servlets/TCP & UPD/UDP протокол + пример.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-09-02.md",
+                "file": "HTTP Servlets/TCP & UPD/UDP протокол + пример.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-09-02.md"
+                "file": "HTTP Servlets/TCP & UPD/UDP протокол + пример.md"
               }
             }
           }
@@ -150,53 +160,53 @@
   },
   "active": "06cd807abaedb3a3",
   "lastOpenFiles": [
+    "HTTP Servlets/TCP & UPD/Работа с сетями в Java. TCP & UDP протаколами.md",
+    "HTTP Servlets/TCP & UPD/UDP протокол + пример.md",
+    "HTTP Servlets/Sockets/Socket.md",
+    "HTTP Servlets/Sockets/Что такое сокет в контексте клиента и сервера.md",
+    "HTTP Servlets/Sockets/Socket на стороне сервера.md",
+    "HTTP Servlets/Sockets/Порт и Приложение.md",
+    "Excalidraw/Drawing 2024-08-21 13.54.13.excalidraw.md",
+    "HTTP Servlets/Sockets",
+    "Programming/IO&NIO/IO/Datainputstream & DataOutputStream.md",
+    "Cache/Pasted image 20240908183113.png",
+    "Cache/Pasted image 20240908190555.png",
+    "Cache/Pasted image 20240908183947.png",
+    "Excalidraw/Drawing 2024-08-22 11.59.20.excalidraw.md",
+    "HTTP Servlets/TCP & UPD",
+    "Cache/Pasted image 20240908125756.png",
+    "HTTP Servlets/OSI/DNS.md",
+    "Cache/Pasted image 20240908160410.png",
+    "Cache/Pasted image 20240908155833.png",
+    "HTTP Servlets/OSI/Физический уровень.md",
+    "Cache/Pasted image 20240908133524.png",
+    "Cache/Pasted image 20240908130127.png",
+    "HTTP Servlets/OSI/Канальный уровень.md",
+    "HTTP Servlets/OSI/Коротко о том как работает OSI.md",
+    "HTTP Servlets/OSI/Сетевой уровень.md",
+    "HTTP Servlets/OSI/Модель OSI.md",
+    "Cache/Pasted image 20240908123704.png",
+    "Cache/Pasted image 20240908123906.png",
+    "Daily/2024-09-08.md",
+    "Daily/RepositoryOfOldList/2024-09-01.md",
+    "HTTP Servlets/OSI",
+    "Daily/2024-09-06.md",
+    "Daily/2024-09-04.md",
+    "Daily/2024-09-05.md",
     "DataBase/PostgreSQL/Транзакции DMdev/Транзакции.md",
-    "DataBase/PostgreSQL/Индексы/Варианты связываний таблиц.md",
-    "DataBase/PostgreSQL/Транзакции DMdev",
-    "DataBase/PostgreSQL/Индексы/Виды планировщиков запросов.md",
-    "Daily/2024-09-02.md",
-    "Daily/2024-09-1.md",
-    "Daily/2024-08-31.md",
-    "Daily/2024-09-01.md",
+    "DataBase/PostgreSQL/Транзакции Кодируем/Transaction.md",
+    "DataBase/PostgreSQL/Транзакции Кодируем",
+    "Algo/Trees/RBT/Red Black Tree.md",
+    "Algo/Trees/RBT",
+    "Algo/Trees",
+    "HTTP Servlets/World Wide Web.md",
+    "HTTP Servlets",
+    "HTTP Servlets.md",
+    "Daily/2024-09-03 1.md",
     "Без названия.canvas",
-    "Programming/Generics/Вариантности.md",
-    "Programming/ReflectionApiTregulov/ReflectionApi.md",
-    "Programming/Generics",
-    "DataBase/SQL.md",
-    "DataBase/PostgreSQL RoadMap.md",
-    "DataBase/PostgreSQL/DDL/DDL - Data Definition Language.md",
-    "Programming/Multithreading/Thread/Состояния потока.md",
-    "Programming/ReflectionApiTregulov",
-    "Daily/2024-08-30.md",
-    "Daily/RepositoryOfOldList/2024-08-28.md",
-    "Education/Ежедневник/2024/Java themes.md",
-    "Programming/ReflecitonAPI/Аннотация.md",
-    "Programming/ReflecitonAPI/Конструкторы, поля, методы.md",
-    "Programming/ReflecitonAPI/ReflectionAPI.md",
-    "Programming/ReflectionAPI",
-    "Daily/RepositoryOfOldList/2024-08-22.md",
-    "Daily/RepositoryOfOldList/2024-08-27.md",
-    "DataBase/PostgreSQL/Базовые запросы/Групировка/Windows Function.md",
-    "Daily/2024-08-29.md",
-    "красно-чёрное дерево.md",
-    "Cache/Pasted image 20240827173816.png",
-    "Cache/Pasted image 20240827201950.png",
-    "Programming/StreamApi/Steam API.md",
-    "DataBase/PostgreSQL/Индексы/Виды индексов/Специализированные индексы.md",
-    "DataBase/PostgreSQL/Индексы/Виды индексов",
-    "DataBase/PostgreSQL/Индексы",
-    "DataBase/PostgreSQL/Функции в SQL",
-    "Cache/Pasted image 20240825123802.png",
-    "Cache/Pasted image 20240826102756.png",
-    "Cache/Pasted image 20240825203356.png",
-    "Programming/Multithreading/Многопоточные коллекции/Concurrent collections",
-    "Programming/Multithreading/Многопоточные коллекции",
-    "Programming/StreamApi/Коллекторы",
-    "Cache/Многопоточность/Exchanger.gif",
-    "Cache/Многопоточность/CountDownLatch.gif",
-    "Cache/Многопоточность/Semaphore.gif",
-    "Cache/Pasted image 20240824135425.png",
-    "Cache/Pasted image 20240824133909.png",
+    "DataBase/PostgreSQL/NoSQL",
+    "DataBase/PostgreSQL/DWH",
+    "DataBase/PostgreSQL/ТригерыDMdev",
     "CanvasDiogram/AlgoRoadMap.canvas",
     "CanvasDiogram/Расписание на выходную неделю.canvas"
   ]
