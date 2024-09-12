@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP Servlets/TCP & UPD/UDP протокол + пример.md",
+                "file": "HTTP Servlets/HTTP/HTTP история.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "submit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5086555480957
+    "width": 336.5086555480957
   },
   "right": {
     "id": "48a1588a14b54ce1",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP Servlets/TCP & UPD/UDP протокол + пример.md",
+                "file": "HTTP Servlets/HTTP/HTTP история.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP Servlets/TCP & UPD/UDP протокол + пример.md",
+                "file": "HTTP Servlets/HTTP/HTTP история.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP Servlets/TCP & UPD/UDP протокол + пример.md"
+                "file": "HTTP Servlets/HTTP/HTTP история.md"
               }
             }
           }
@@ -160,9 +160,33 @@
   },
   "active": "06cd807abaedb3a3",
   "lastOpenFiles": [
-    "HTTP Servlets/TCP & UPD/Работа с сетями в Java. TCP & UDP протаколами.md",
-    "HTTP Servlets/TCP & UPD/UDP протокол + пример.md",
+    "Cache/Pasted image 20240912141831.png",
+    "Cache/Pasted image 20240912141307.png",
+    "Cache/Pasted image 20240912140938.png",
+    "Pasted image 20240912141831.png",
+    "Pasted image 20240912141307.png",
+    "Pasted image 20240912140938.png",
+    "HTTP Servlets/HTTP/HTTP.md",
+    "HTTP Servlets/HTTP/HTTP история.md",
+    "Programming/Multithreading/Info/Callable и Future.md",
+    "HTTP Servlets/HTTP",
+    "Programming/Multithreading/Thread/ThreadPool/ExecutorService.md",
+    "Programming/Multithreading/Info/Data race и synchronized методы.md",
+    "Programming/Multithreading/Возможные ситуации/Возможные ситуации в многопоточном программировании.md",
+    "HTTP Servlets/Форматы данных/XML.md",
+    "HTTP Servlets/HttpClient.md",
+    "HTTP Servlets/Форматы данных",
+    "Programming/Multithreading/Info/Asynchronous VS Synchronous.md",
+    "HTTP Servlets/URL.md",
+    "Programming/IO&NIO/NIO/Path&Files/Files.md",
+    "Programming/IO&NIO/NIO/Path&Files/Files.walkFileTree.md",
+    "Programming/IO&NIO/NIO/Path&Files/Path.md",
+    "Programming/IO&NIO/IO/File.md",
     "HTTP Servlets/Sockets/Socket.md",
+    "Cache/Pasted image 20240910185802.png",
+    "Cache/Pasted image 20240910195025.png",
+    "HTTP Servlets/TCP & UPD/UDP протокол + пример.md",
+    "HTTP Servlets/TCP & UPD/Работа с сетями в Java. TCP & UDP протаколами.md",
     "HTTP Servlets/Sockets/Что такое сокет в контексте клиента и сервера.md",
     "HTTP Servlets/Sockets/Socket на стороне сервера.md",
     "HTTP Servlets/Sockets/Порт и Приложение.md",
@@ -174,39 +198,15 @@
     "Cache/Pasted image 20240908183947.png",
     "Excalidraw/Drawing 2024-08-22 11.59.20.excalidraw.md",
     "HTTP Servlets/TCP & UPD",
-    "Cache/Pasted image 20240908125756.png",
     "HTTP Servlets/OSI/DNS.md",
-    "Cache/Pasted image 20240908160410.png",
-    "Cache/Pasted image 20240908155833.png",
     "HTTP Servlets/OSI/Физический уровень.md",
-    "Cache/Pasted image 20240908133524.png",
-    "Cache/Pasted image 20240908130127.png",
-    "HTTP Servlets/OSI/Канальный уровень.md",
-    "HTTP Servlets/OSI/Коротко о том как работает OSI.md",
-    "HTTP Servlets/OSI/Сетевой уровень.md",
-    "HTTP Servlets/OSI/Модель OSI.md",
-    "Cache/Pasted image 20240908123704.png",
-    "Cache/Pasted image 20240908123906.png",
-    "Daily/2024-09-08.md",
-    "Daily/RepositoryOfOldList/2024-09-01.md",
     "HTTP Servlets/OSI",
-    "Daily/2024-09-06.md",
-    "Daily/2024-09-04.md",
-    "Daily/2024-09-05.md",
-    "DataBase/PostgreSQL/Транзакции DMdev/Транзакции.md",
-    "DataBase/PostgreSQL/Транзакции Кодируем/Transaction.md",
     "DataBase/PostgreSQL/Транзакции Кодируем",
-    "Algo/Trees/RBT/Red Black Tree.md",
     "Algo/Trees/RBT",
     "Algo/Trees",
-    "HTTP Servlets/World Wide Web.md",
     "HTTP Servlets",
-    "HTTP Servlets.md",
-    "Daily/2024-09-03 1.md",
     "Без названия.canvas",
     "DataBase/PostgreSQL/NoSQL",
-    "DataBase/PostgreSQL/DWH",
-    "DataBase/PostgreSQL/ТригерыDMdev",
     "CanvasDiogram/AlgoRoadMap.canvas",
     "CanvasDiogram/Расписание на выходную неделю.canvas"
   ]
